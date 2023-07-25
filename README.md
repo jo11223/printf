@@ -1,2 +1,2 @@
 # printf
-This the  first Group assighment 
+This the  first Group assignment 
